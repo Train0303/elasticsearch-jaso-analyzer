@@ -6,11 +6,11 @@
 $ ./gradlew clean build buildPluginZip
 ~~~
 
-###### 자동완성용 한글 자소분석기입니다. elasticsearch 7.15.1 에서 테스트 되었습니다
+###### 자동완성용 한글 자소분석기입니다. elasticsearch 7.10.1 에서 테스트 되었습니다
 
 ###### *설치*
 ```
-bin/elasticsearch-plugin install https://github.com/netcrazy/elasticsearch-jaso-analyzer/releases/download/v7.15.1/jaso-analyzer-plugin-7.15.1-plugin.zip
+bin/elasticsearch-plugin install https://github.com/Train0303/elasticsearch-jaso-analyzer/releases/download/v7.10.1/jaso-analyzer-plugin-7.10.1-plugin.zip
 ```
 
 ###### *삭제 (필요시)*
